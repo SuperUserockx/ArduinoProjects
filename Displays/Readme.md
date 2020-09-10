@@ -1,1 +1,1 @@
-# Various LCD display test codes for arduino.
+# Various LCD display test code for arduino.
